@@ -30,7 +30,7 @@
 
 #### Translation of Reference letter based on results of Software Testing Courses at Stormnet IT-Academy Completion (En)
 <div>
-<a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-05-16%20Reference%20letter%20translation%20IT-Academy%20Stormnet%20Technolodgies.pdf" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-05-16%20Reference%20letter%20translation%20IT-Academy%20Stormnet%20Technolodgies.pdf" alt="Translation Reference letter IT_Academy" width="150"></a>
+<a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-05-16-Reference-letter-translation-IT-Academy-Stormnet-Technolodgie.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/2023-05-16-Reference-letter-translation-IT-Academy-Stormnet-Technolodgie.png" alt="Translation Reference letter IT_Academy" width="150"></a>
   
 #### Reference letter from bnt attorneys in CEE, an internationsl law firm (En)
 <div>
