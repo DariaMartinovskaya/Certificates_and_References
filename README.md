@@ -1,6 +1,10 @@
 # Navigation bar
 ## Certificates
 
+#### Certificate confirming that I completed Vadim Ksendzov's QA Course (En)
+<div>
+<a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/Certificate_Darya%20Martsinouskaya_CUR.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/Certificate_Darya%20Martsinouskaya_CUR.png" alt="CUR" width="150"></a>
+
 #### Certificate confirming that I successfully passed the exam on Git commands organized by Vadim Ksendzov's QA Course (En)
 <div>
 <a href="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/Certificate_Darya%20Martsinouskaya_Git.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Certificates_and_References/blob/main/Certificate_Darya%20Martsinouskaya_Git.png" alt="Git" width="150"></a>
